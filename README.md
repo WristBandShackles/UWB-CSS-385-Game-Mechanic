@@ -12,4 +12,4 @@ Email: pisan@uw.edu<br>
 Due: May 19, 2024<br>
 Written in: Unity<br>
 
-Review the game mechanics at https://github.com/t4guw/100-Unity-Mechanics-for-ProgrammersLinks to an external site.
+Review the game mechanics at https://github.com/t4guw/100-Unity-Mechanics-for-Programmers
