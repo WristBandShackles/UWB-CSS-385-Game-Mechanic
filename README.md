@@ -1,6 +1,7 @@
 # UWB-CSS-385-Game-Mechanic
 Write a new game mechanic that is commonly found in games that is not already included.
 
+# Platforms
 ### [Link to WebGL Game](https://wristbandshackles.github.io/UWB-CSS-385-Game-Mechanic/Builds/)
 
 # Details
